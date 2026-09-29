@@ -8,7 +8,7 @@ order: 4
 
 I'm a software engineer passionate about **continuous improvement (PDCA)**, systems thinking, and iterative personal growth.
 
-This blog, **One Percent Better**, is where I document my journey of applying engineering principles to everyday life, habits, productivity, and learning English.
+This blog, **That One Side**, is where I document my journey of applying engineering principles to everyday life, habits, productivity, and learning English.
 
 #### What you'll find here:
 - **Continuous Improvement:** Applying iterative feedback loops, metrics, and systems to personal goals.
