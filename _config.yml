@@ -56,8 +56,8 @@ pageviews:
 # com botão de alternar entre Dark / Light no canto inferior esquerdo.
 theme_mode:
 
-# Avatar na sidebar (usando foto do seu perfil GitHub)
-avatar: "https://github.com/lucascucolo.png"
+# Avatar na sidebar (local ou URL)
+avatar: '/assets/img/logo.svg'
 
 # Imagem padrão para preview em redes sociais (Open Graph)
 social_preview_image:
