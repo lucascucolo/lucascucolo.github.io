@@ -1,7 +1,157 @@
+# The Site Configuration
+
+# Import the theme
+theme: jekyll-theme-chirpy
+
+# The language of the webpage › http://www.lingoes.net/en/translator/langcode.htm
+lang: en
+
+# Timezone › https://zones.arilyn.cc
+timezone: America/Sao_Paulo
+
+# jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
+# ↓ --------------------------
+
 title: One Percent Better
-email: lucas.cucolo@gmail.com
+
+tagline: Engineering, continuous improvement & English
+
 description: >-
-  Writing about personal development, continuous improvement, and learning English.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://lucascucolo.github.io" # the base hostname & protocol for your sites
-theme: minima
+  Writing about personal development, continuous improvement, engineering mindset, and learning English.
+
+# Fill in the protocol & hostname for your site.
+url: "https://lucascucolo.github.io"
+
+github:
+  username: lucascucolo
+
+social:
+  name: Lucas Cucolo
+  email: lucas.cucolo@gmail.com
+  links:
+    - https://github.com/lucascucolo
+    # - https://www.linkedin.com/in/lucascucolo
+
+# Site Verification Settings
+webmaster_verifications:
+  google:
+  bing:
+
+# Web Analytics Settings (preparado para quando você quiser ativar)
+analytics:
+  google:
+    id:
+  goatcounter:
+    id:
+  umami:
+    id:
+    domain:
+
+# Page views settings
+pageviews:
+  provider:
+
+# Prefer color scheme:
+# Deixar vazio para respeitar o tema do sistema operacional,
+# com botão de alternar entre Dark / Light no canto inferior esquerdo.
+theme_mode:
+
+# Avatar na sidebar (usando foto do seu perfil GitHub)
+avatar: "https://github.com/lucascucolo.png"
+
+# Imagem padrão para preview em redes sociais (Open Graph)
+social_preview_image:
+
+# Table of Contents nos posts
+toc: true
+
+actions:
+  edit_post:
+    enabled: false
+
+comments:
+  provider:
+
+assets:
+  self_host:
+    enabled:
+
+pwa:
+  enabled: true
+  cache:
+    enabled: true
+
+paginate: 10
+
+# Base URL (vazio se for domínio raiz lucascucolo.github.io)
+baseurl: ""
+
+# ------------ The following options are not recommended to be modified ------------------
+
+kramdown:
+  footnote_backlink: "&#8617;&#xfe0e;"
+  syntax_highlighter: rouge
+  syntax_highlighter_opts:
+    css_class: highlight
+    span:
+      line_numbers: false
+    block:
+      line_numbers: true
+      start_line: 1
+
+collections:
+  tabs:
+    output: true
+    sort_by: order
+
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: post
+      comments: true
+      toc: true
+      permalink: /posts/:title/
+  - scope:
+      path: _drafts
+    values:
+      comments: false
+  - scope:
+      path: ""
+      type: tabs
+    values:
+      layout: page
+      permalink: /:title/
+
+sass:
+  style: compressed
+
+compress_html:
+  clippings: all
+  comments: all
+  endings: all
+  profile: false
+  blanklines: false
+  ignore:
+    envs: [development]
+
+exclude:
+  - "*.gem"
+  - "*.gemspec"
+  - docs
+  - tools
+  - README.md
+  - LICENSE
+  - purgecss.js
+  - "*.config.js"
+  - "package*.json"
+
+jekyll-archives:
+  enabled: [categories, tags]
+  layouts:
+    category: category
+    tag: tag
+  permalinks:
+    tag: /tags/:name/
+    category: /categories/:name/
