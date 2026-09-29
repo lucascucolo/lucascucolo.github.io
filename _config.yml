@@ -40,7 +40,7 @@ webmaster_verifications:
 # Web Analytics Settings (preparado para quando você quiser ativar)
 analytics:
   google:
-    id:
+    id: "G-9FJZ2P4TSJ"
   goatcounter:
     id:
   umami:
