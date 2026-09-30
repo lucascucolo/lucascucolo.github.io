@@ -7,7 +7,7 @@ tags: [habits, english, news, life]
 description: "Why I'm here, writing about everything."
 ---
 
-Welcome to my new blog! As a software engineer and continuous improvement enthusiast, I decided to start a new journey in my life and create this blog to practice my English. 
+Welcome to my new blog! As an SRE (Site Reliability Engineer) and continuous improvement enthusiast, I decided to start a new journey in my life and create this blog to practice my English. 
 
 In high school, I didn't care much about learning English; I was just that kind of kid who wanted to be a rockstar in a metal band, haha.
 
