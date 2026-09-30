@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 100" width="100%" height="100%">
+  <rect width="300" height="100" rx="12" fill="#020617"/>
+  
+  <!-- Símbolo % moderno com traços geométricos -->
+  <circle cx="35" cy="38" r="6" fill="none" stroke="#22c55e" stroke-width="3"/>
+  <line x1="55" y1="30" x2="25" y2="70" stroke="#22c55e" stroke-width="3" stroke-linecap="round"/>
+  <circle cx="45" cy="62" r="6" fill="none" stroke="#22c55e" stroke-width="3"/>
+
+  <!-- Tipografia -->
+  <text x="80" y="48" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="24" font-weight="800" fill="#f8fafc" letter-spacing="0.5">ONE % BETTER</text>
+  <text x="82" y="70" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="600" fill="#22c55e" letter-spacing="1.5">ITERATE &amp; EVOLVE</text>
+</svg>
