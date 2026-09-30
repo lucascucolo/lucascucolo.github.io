@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "What I'm Doing Here"
-date: 2026-09-29 12:00:00 -0300
+date: 2026-09-30 15:23:00 -0300
 categories: [Personal Development, Continuous Improvement]
 tags: [habits, english, news, life]
 description: "Why I'm here, writing about everything."
