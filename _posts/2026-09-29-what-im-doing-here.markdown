@@ -11,7 +11,7 @@ Welcome to my new blog! As an SRE (Site Reliability Engineer) and continuous imp
 
 In high school, I didn't care much about learning English; I was just that kind of kid who wanted to be a rockstar in a metal band, haha.
 
-Of course, as the years passed, everything changed, and I began to work in IT. Now, I'm just a little tired of talking exclusively about technology-related things, but at the same time, I always need ways to improve my knowledge. So I decided to create this blog to improve my English writing.
+Of course, as the years passed, everything changed, and I began to work in IT. Now, I'm just a little tired of talking exclusively about technology, yet I always need ways to improve my skills. So I decided to create this blog to expand my English writing.
 
 I know that in this new world with AI, everything is easier to write in multiple languages, but that's not the goal of this blog. I want to talk about a lot of things, try to write by myself, and use AI to help me understand what I need to correct.
 
