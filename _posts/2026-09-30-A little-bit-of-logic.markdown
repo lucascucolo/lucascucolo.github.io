@@ -2,8 +2,8 @@
 layout: post
 title: "A Little bit of Logic"
 date: 2026-09-30 23:23:00 -0300
-categories: [Personal Development, Continuous Improvement]
-tags: [habits, english, news, life]
+categories: [Personal Development]
+tags: [logic, english, news, life, rational, emotional]
 description: "Why I'm here, writing about everything."
 ---
 
