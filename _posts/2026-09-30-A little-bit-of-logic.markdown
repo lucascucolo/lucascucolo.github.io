@@ -4,7 +4,7 @@ title: "A Little bit of Logic"
 date: 2026-09-30 23:23:00 -0300
 categories: [Personal Development]
 tags: [logic, english, news, life, rational, emotional]
-description: "Why I'm here, writing about everything."
+description: "Just some thougths."
 ---
 
 Have you ever thought: Why do we need to learn math or find the "x" in high school?
